@@ -1,6 +1,6 @@
 # AVSnap
 
-Migrated to new location <a href = "https://github.com/tavihalperin/AV-sync"> https://github.com/tavihalperin/AV-sync </a>.
+Migrated to new location <a href = "https://github.com/tavihalperin/AV-sync"> https://github.com/tavihalperin/AV-sync</a>.
 
 This repository contains demo code for the paper <a href = "https://arxiv.org/abs/1808.06250">Dynamic Temporal Alignment of Speech to Lips </a>
 The repository forks the demo for the audio-to-video synchronisation network (<a href = "http://www.robots.ox.ac.uk/~vgg/software/lipsync/">SyncNet</a>).
